@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{A513BC8D-6A7D-D6C5-EEBE-D27CF600D276}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GoldenLeaf.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraController.cs">
     <Files>
-      <File FileName="Assets/Scripts/Player.cs" Line="97" Column="6" />
-      <File FileName="Assets/Scripts/GoldenLeaf.cs" Line="19" Column="14" />
+      <File FileName="Assets/Scripts/Player.cs" Line="99" Column="46" />
+      <File FileName="Assets/Scripts/GoldenLeaf.cs" Line="32" Column="29" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="18" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +11,7 @@
           <Node name="Test" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="GoldenLeaf.cs" selected="True" />
+                <Node name="CameraController.cs" selected="True" />
               </Node>
             </Node>
           </Node>
